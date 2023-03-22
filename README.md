@@ -25,6 +25,31 @@ for Jekyll to rendering markdown documents to HTML, thus the whole site can be d
 to [Github Pages][1] without generating and uploading HTML bundle every time when there are
 changes to the original repo.
 
+
+{% tabs %}
+{% tab title="55" %}
+#### **\[2017.05 제정안]**&#x20;
+
+보험료배분접근법을 사용하여 다음과 같이 잔여보장부채를 측정한다.
+
+* ⑴ 최초 인식시점에 부채의 장부금액은 다음 ㈎에 ㈏를 차감하고 ㈐를 가감하여 산정한다.
+  * ㈎ (있다면) 최초 인식시점에 수취한 보험료
+  * ㈏ 최초 인식 시점의 보험 취득 현금흐름(문단 59⑴을 적용하여 지급액을 비용으로 인식하기로 선택한 경우 제외)
+  * ㈐ **문단 27**을 적용하여 보험 취득 현금흐름에 대해 인식한 **자산이나 부채**를 그 시점에 제거하여 생기는 금액
+
+
+
+#### &#xD;**\[2020.06 최종안]**&#x20;
+
+보험료배분접근법을 사용하여 다음과 같이 잔여보장부채를 측정한다.
+
+* ⑴ 최초 인식시점에 부채의 장부금액은 다음 ㈎에 ㈏를 차감하고 ㈐를 가감하여 산정한다.
+  * ㈎ (있다면) 최초 인식시점에 수취한 보험료
+  * ㈏ 최초 인식 시점의 보험 취득 현금흐름(문단 59⑴을 적용하여 지급액을 비용으로 인식하기로 선택한 경우는 제외)
+  * **문단 28C를 적용하여 인식한 보험취득 현금흐름 자산을 최초** 인식시점에 제거하여 생기는 금액과 **문단 B66A에 명시된 바와 같이 계약집합과 관련된 현금흐름에 대해 종전에 인식한 자산 또는 부채를 최초 인식시점에 제거하여 생기는 금액**
+{% endtab %}
+{% endtabs %}
+
 ## How to Get Started
 
 This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
